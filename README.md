@@ -1,2 +1,4 @@
 # hello_world
-my first repository
+Hi man, 
+
+This is the my first github file.
